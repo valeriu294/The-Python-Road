@@ -8,6 +8,6 @@ elif height >= 120 and height < 160:
     print("You can ride the rollercoaster.")
 else:
     print("You can ride but you need to pay an extra fee of $5.")
-break
+
 
     
