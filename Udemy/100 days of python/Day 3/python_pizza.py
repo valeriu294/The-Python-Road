@@ -22,4 +22,6 @@ elif size == "L":
         bill += 3
     if add_cheese == "Y":
         bill += 1
+else:
+    print("Invalid size selected.")
 print(f"Your final bill is: ${bill}.")
